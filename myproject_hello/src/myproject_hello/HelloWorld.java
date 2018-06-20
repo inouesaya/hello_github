@@ -3,8 +3,9 @@ package myproject_hello;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO è‡ªå‹•ç”Ÿæˆã•ã‚ŒãŸãƒ¡ã‚½ãƒƒãƒ‰ãƒ»ã‚¹ã‚¿ãƒ–
 System.out.println("HelloWorld!!!!");
+System.out.println("HelloGithub!!!");
 System.out.println("HelloGithub!!!");
 	}
 
